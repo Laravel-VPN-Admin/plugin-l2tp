@@ -1,0 +1,10 @@
+{
+    "name": "laravel-vpn-admin/plugin-l2tp",
+    "authors": [
+        {
+            "name": "Paul Rock",
+            "email": "paul@drteam.rocks"
+        }
+    ],
+    "require": {}
+}
